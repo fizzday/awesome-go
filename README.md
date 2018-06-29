@@ -992,6 +992,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 * [upper.io/db](https://github.com/upper/db) - Single interface for interacting with different data sources through the use of adapters that wrap mature database drivers.
 * [Xorm](https://github.com/go-xorm/xorm) - Simple and powerful ORM for Go.
 * [Zoom](https://github.com/albrow/zoom) - Blazing-fast datastore and querying engine built on Redis.
+* [GoRose](https://github.com/gohouse/gorose) - a beautiful chan operation orm like laravel's eloquent without reflect or preset struct.
 
 ## Package Management
 
